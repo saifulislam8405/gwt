@@ -1,0 +1,196 @@
+*{
+	margin:0;
+	border:0;
+	padding:0;
+	outline:0;
+	box-sizing:boder-box;	
+}
+.container{
+	width:90%;
+	margin:auto;
+}
+
+.row{
+	width:100%;
+	float:left;
+}
+.col-1{
+	width:8.33%;
+	float:left;
+}
+.col-2{
+	width:16.66%;
+	float:left;
+}
+.col-3{
+	width:25%;
+	float:left;
+}
+.col-4{
+	width:33.33;
+	float:left;
+}
+.col-5{
+	width:41.66%;
+	float:left;
+}
+.col-6{
+	width:50%;
+	float:left;
+}
+.col-7{
+	width:58.33%;
+	float:left;
+}
+.col-8{
+	width:66..33%;
+	float:left;
+}
+.col-9{
+	width:75%;
+	float:left;
+}
+.col-10{
+	width:83.33%;
+	float:left;
+}
+.col-11{
+	width:91.66%;
+	float:left;
+}
+.col-12{
+	width:100%;
+	float:left;
+}
+
+header{
+	background-color:#87509c;
+}
+.main1{
+background-color:#17c2a4;
+}
+.main2{
+background-color:#e7f1f8;
+}
+.main3{
+background-color:#ffffff;
+}
+.main4{
+background-color:#ffdd99;
+}
+.main5{
+background-color:#d74680;
+}
+.main6{
+background-color:#3c5499;
+}
+nav{
+	padding-top:40px;
+	}
+.logo-part{
+	width:50%;
+	float:left;
+	
+	
+}	
+.menu-part{
+	width:50%;
+	float:left;
+	
+}	
+.header-text{
+	padding:50px 100px 40px;
+	text-align:center;
+	color:#fff;
+}
+button{
+	background-color:#eb7d4b;
+	padding: 15px 40px;
+	color:#fff;
+	text-align:center;
+	margin:0px 510px 90px;
+	border-radius: 5px;	
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding-left:150px;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+  padding-right:20px
+}
+
+li a {
+  display: block;
+  padding: 8px;
+  color: #fff;
+  text-decoration:none;
+}
+
+.service1 h1{
+	text-align:center;
+	padding-top:70px;
+}
+.service1 p{
+	text-align:center;
+	padding-top:20px;
+	padding-bottom:40px;
+		
+}
+.service2{
+	padding-bottom:60px;
+}
+.center{
+	text-align:center;
+}
+.center h2, p{
+	text-align:center;
+}
+/* .center p{
+	text-align:justify;
+} */
+
+.bt{
+	background-color:#17c2a4;
+	padding: 15px 20px;
+	margin:0px 490px 90px;
+	border-radius: 5px;	
+}
+.bt a{
+	text-decoration: none;	
+	color:#fff;
+}
+.main5 h2,h3{
+	padding-left:330px;
+}
+
+form{
+	text-align:center;
+	
+	
+	
+}
+input, textarea{
+	padding:10px;
+	border-radius:3px;
+	background-color:#273a71;
+	color:#fff;
+}
+.clr{
+	color:#fff;
+}
+.menu-part button{float:left;}
+.footer{
+	
+	background-color:#344b8e;
+	padding-left:200px;
+
+}
+.footer a{
+	padding-top:20px;
+	padding-bottom:20px;
+	
+}
